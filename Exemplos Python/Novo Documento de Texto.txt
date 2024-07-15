@@ -1,0 +1,53 @@
+ 
+
+Briefing Cliente – Ecommerce de Tecnologia; 
+
+ 
+
+Qual é o seu público-alvo?  
+
+ 
+
+Quais são os produtos ou serviços que você planeja vender no e-commerce? 
+
+ 
+
+Você já possui uma identidade de marca estabelecida? Existe um esquema de cores que devemos considerar? 
+
+ 
+
+Você tem uma lista de recursos específicos que deseja incluir no e-commerce? Por exemplo, carrinho de compras, sistema de pagamento, etc. 
+
+ 
+
+(s) para sim (n) para não 
+
+ 
+
+() Catálogo de produtos - exibir uma variedade de produtos com detalhes, imagens e preços. 
+
+() Sistema de busca – filtros; 
+
+() Carrinho de compras - funcionalidade para adicionar e remover produtos, visualizar o total da compra e proceder para o checkout. 
+
+() Sistema de pagamento - Integração com diferentes métodos de pagamento, como cartões de crédito, PayPal, entre outros. 
+
+() Login - criem contas, visualizem seu histórico de pedidos e atualizem suas informações pessoais. 
+
+() Botões de compartilhamento social e integração com plataformas de mídia social para promover produtos. 
+
+() Envio automático de e-mails de confirmação de pedido, atualizações de entrega, etc. 
+
+() Avaliações e comentários: Recursos para os clientes deixarem avaliações e comentários sobre os produtos. 
+
+ 
+
+Você precisa de funcionalidades personalizadas, como integração com sistemas de gerenciamento de inventário ou CRM? 
+
+ 
+
+Você pretende oferecer o e-commerce em outro idioma além do português? 
+
+Existem elementos específicos dos concorrentes que você gostaria de incorporar ou evitar no seu e-commerce? 
+
+ 

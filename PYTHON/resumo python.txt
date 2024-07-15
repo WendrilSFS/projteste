@@ -1,0 +1,200 @@
+
+C:\Users\WendrilSantos>python
+Python 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> nome = "wendril"
+>>> idade = "28"
+>>>
+>>> cidade = "Campo Grande"
+>>> altura = "1.78"
+>>> print(nome)
+wendril
+>>> print(nome, "tem" , idade, "anos e mora em",cidade)
+wendril tem 28 anos e mora em Campo Grande
+>>> idade = "23"
+>>> print(nome,"tem",idade,"anos e mora em",cidade)
+wendril tem 23 anos e mora em Campo Grande
+>>> mensagem = "ok"
+>>> print(mensagem)
+ok
+>>> mensagem = "bom dia!! esperamos que voce conclua o curso!"
+>>> print(mensagem)
+bom dia!! esperamos que voce conclua o curso!
+>>> numero = 10
+>>> print(numero)
+10
+>>> numero = 10 + 11
+>>> print(numero)
+21
+>>> cidade = input("digite sua cidade: ")
+digite sua cidade: Cg
+>>> print(cidade)
+Cg
+>>> name = input("digite seu nome!\n")
+digite seu nome!
+CJ
+>>> print(name)
+CJ
+>>> ovos = 12
+>>> print(ovos)
+12
+>>> type(ovos)
+<class 'int'>
+>>> nota = 7.5
+>>> type(nota)
+<class 'float'>
+>>> name = wendril
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'wendril' is not defined
+>>> name = "wendril"
+>>> type(name)
+<class 'str'>
+>>> int(1.99)
+1
+>>> x = int(input("digite um numero: "))
+digite um numero: 7
+>>> print(x)
+7
+>>> y = float(input("digite outro numero: "))
+digite outro numero: 5
+>>> print(y)
+5.0
+>>> n1 = input("digite um numero: ")
+digite um numero: 50
+>>> n1 = int (input("digite um numero: "))
+digite um numero: 50
+>>> n2 = int(input("digite um numero: "))
+digite um numero: 52
+>>> print(n1+n2)
+102
+>>> n3 = (float n1)
+  File "<stdin>", line 1
+    n3 = (float n1)
+          ^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+>>> n3 = (floatn1)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'floatn1' is not defined. Did you mean: 'float'?
+>>> n3 = (float)
+>>> n3 = float (n1)
+>>> 50
+50
+>>> n3 = float(n1)
+>>> n3
+50.0
+>>> nome = wendril
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'wendril' is not defined
+>>> name = wendril
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'wendril' is not defined
+>>> nome = "wendril"
+>>> sobrenome = "santos"
+>>> idade = 23
+>>> cidade = "Campo Grande"
+>>> print(f"\n nome completo: {nome} {sobrenome}, idade: {idade}, cidade: {cidade}")
+
+ nome completo: wendril santos, idade: 23, cidade: Campo Grande
+>>> acount = "wendrilaluno.senac.br"
+>>> email = "wendsnt@um.com"
+>>> print(f"in primeiro email: {acount} e segundo email {email}")
+in primeiro email: wendrilaluno.senac.br e segundo email wendsnt@um.com
+>>> base = 8
+>>> altura = 5
+>>> area = base * altura / 2
+>>> area
+20.0
+>>> n1 = 30
+>>> n2 = 20
+>>> res = n1 * n2
+>>>
+>>> print(res)
+600
+>>> pot = 2 ** 3
+>>> print(pot)
+8
+>>> pot = 2 **7
+>>> print(pot)
+128
+>>> pot = 2 ** 10
+>>> print(pot)
+1024
+>>> pot = 3 *** 2
+  File "<stdin>", line 1
+    pot = 3 *** 2
+              ^
+SyntaxError: invalid syntax
+>>> pot = 3 ** 2
+>>> print(pot)
+9
+>>> preco = 1000
+>>> preco2 = 50
+>>> print(preco > preco2)
+True
+>>> print(preco > preco2)
+True
+>>> print(preco < preco2)
+False
+>>> print(preco == preco2)
+False
+>>> print(preco != preco2)
+True
+>>> print(preco >= preco2)
+True
+>>> print(preco <= preco2)
+False
+>>> a = 1
+>>> b = 2
+>>> c = a > b
+>>> print(c)
+False
+>>> b = a
+>>> print(c)
+False
+>>> a = 10
+>>> b = 11
+>>> c = 12
+>>> d = 13
+>>> print(a < b and c < d)
+True
+>>> print (a < b and c > d)
+False
+>>> print (a < b or c > d)
+True
+>>> print (a > b or c > d)
+False
+>>> c = a > b
+>>> c
+False
+>>> print(not(c))
+True
+>>> n1 = 10
+>>> n2 = 20
+>>> res = n1 < n2
+>>> print(res)
+True
+>>> print(not(res))
+False
+>>> res2 = n1 > n2
+>>> print(res2)
+False
+>>> print(res2(not))
+  File "<stdin>", line 1
+    print(res2(not))
+                  ^
+SyntaxError: invalid syntax
+>>> print(not(res2))
+True
+>>> a = 1
+>>> b = 2
+>>> print (a! = 1 or b==1)
+  File "<stdin>", line 1
+    print (a! = 1 or b==1)
+            ^
+SyntaxError: invalid syntax
+>>> print (a != 1 or b == 1)
+False
